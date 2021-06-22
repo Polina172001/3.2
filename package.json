@@ -1,0 +1,22 @@
+{
+  "name": "3.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polina172001/3.2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Polina172001/3.2/issues"
+  },
+  "homepage": "https://github.com/Polina172001/3.2#readme",
+  "dependencies": {
+    "@polina172001/ajs": "^1.0.0"
+  }
+}
